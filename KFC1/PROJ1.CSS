@@ -1,0 +1,53 @@
+table, tr, th, td, caption {
+    border: 5px solid white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+h1 {
+    color: rgb(248, 244, 244);
+    font-size: 64px;
+    text-align: center;
+    margin: 0;
+    text-shadow: 3px 3px 1px rgb(3, 1, 1);
+}
+html {
+    color: white;
+    background-color: lightblue;
+    font-size: 22px;
+    font-family: Georgia;
+    background-image: url("https://www.gannett-cdn.com/-mm-/0919822e9c4a39e4012a4e134aa400b9226e6cb5/c=0-180-984-736/local/-/media/2018/10/10/Redding/Redding/636747922729422064-KFC-Redding.jpg?width=3200&height=1680&fit=crop");
+    background-repeat: repeat;
+    background-size: 1300px 600px;
+}
+.pink {
+    color: pink;
+}
+
+a {
+    color:aliceblue;
+    text-decoration: none;
+}
+a:hover,a:active {
+    color: rgb(243, 198, 232);
+}
+li {
+    font-size: 22px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 50px auto;
+    padding: 0 50px 50px 50px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 50px;
+}
+img {
+    display: inline;
+    margin: 0 auto;
+}
+p{
+    font-size: 16px;
+    letter-spacing: 2px;
+}
